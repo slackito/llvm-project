@@ -13,7 +13,7 @@
 #ifndef LLVM_CLANG_LIB_BASIC_TARGETS_SPIR_H
 #define LLVM_CLANG_LIB_BASIC_TARGETS_SPIR_H
 
-#include "Targets.h"
+#include "../Targets.h"
 #include "clang/Basic/TargetInfo.h"
 #include "clang/Basic/TargetOptions.h"
 #include "llvm/Support/Compiler.h"

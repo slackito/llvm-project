@@ -11,7 +11,7 @@
 //===----------------------------------------------------------------------===//
 
 #include "DirectX.h"
-#include "Targets.h"
+#include "../Targets.h"
 
 using namespace clang;
 using namespace clang::targets;

@@ -12,7 +12,7 @@
 #ifndef LLVM_CLANG_LIB_BASIC_TARGETS_OSTARGETS_H
 #define LLVM_CLANG_LIB_BASIC_TARGETS_OSTARGETS_H
 
-#include "Targets.h"
+#include "../Targets.h"
 
 namespace clang {
 namespace targets {

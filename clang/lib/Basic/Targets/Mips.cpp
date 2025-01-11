@@ -11,7 +11,7 @@
 //===----------------------------------------------------------------------===//
 
 #include "Mips.h"
-#include "Targets.h"
+#include "../Targets.h"
 #include "clang/Basic/Diagnostic.h"
 #include "clang/Basic/MacroBuilder.h"
 #include "clang/Basic/TargetBuiltins.h"

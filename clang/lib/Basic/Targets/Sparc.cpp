@@ -11,7 +11,7 @@
 //===----------------------------------------------------------------------===//
 
 #include "Sparc.h"
-#include "Targets.h"
+#include "../Targets.h"
 #include "clang/Basic/MacroBuilder.h"
 #include "llvm/ADT/StringSwitch.h"
 
